@@ -3,9 +3,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<span href="https://twitter.com/blipn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blipn" height="30" width="40" /></span>
-<span href="https://linkedin.com/in/quentin-miltgen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quentin-miltgen" height="30" width="40" /></span>
-<span href="https://instagram.com/9lipn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="9lipn" height="30" width="40" /></span>
+<a href="https://twitter.com/blipn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blipn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/quentin-miltgen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quentin-miltgen" height="30" width="40" /></a>
+<a href="https://instagram.com/9lipn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="9lipn" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Main Languages and Tools:</h3>
